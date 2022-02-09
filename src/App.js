@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          I done did lern sum React !  ;)
         </a>
       </header>
     </div>
